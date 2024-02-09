@@ -1,4 +1,4 @@
-# Técnido de Desenvolvimento de Sistemas - 2024
+# Técnico de Desenvolvimento de Sistemas - 2024
 
 Bem-vindo ao repositório do curso técnico em Desenvolvimento de Sistemas! Aqui, como aluno, você encontra uma valiosa fonte de conhecimento para complementar o aprendizado em sala de aula. O objetivo é enriquecer a jornada educacional com recursos diversificados e de fácil acesso.
 
