@@ -1,0 +1,13 @@
+
+Links para Download
+
+VirtualBox:
+https://www.virtualbox.org/wiki/Downloads
+
+VSCode: https://code.visualstudio.com/
+Xampp: https://www.apachefriends.org/pt_br/index.html
+
+
+Windows 10:
+https://massgrave.dev/msdl/
+Github: https://github.com/massgravel
