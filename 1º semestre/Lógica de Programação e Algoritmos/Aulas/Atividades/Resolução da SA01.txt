@@ -1,0 +1,27 @@
+programa{
+	funcao inicio(){
+		
+    real tx, moeda, resultado
+		inteiro opcao
+
+		escreva("Qual a cotação do Dólar? ")
+		leia(tx)
+		
+		escreva("Escolha: \n")
+		escreva("[1] - Converter Dólar para Real \n")
+		escreva("[2] - Converter Real para Dólar \n")
+		escreva("Digite um número para a conversão: ")
+		leia(opcao)
+
+		se(opcao == 1){
+			escreva("Qual o valor em Dólar a ser convertido para Real: ")
+			leia(moeda)
+			resultado = moeda * tx	
+		} senao {
+			escreva("Qual o valor em Real a ser convertido para Dólar: ")
+			leia(moeda)
+			resultado = moeda / tx		
+		}
+		escreva("O valor é: ", resultado)
+	}
+}
