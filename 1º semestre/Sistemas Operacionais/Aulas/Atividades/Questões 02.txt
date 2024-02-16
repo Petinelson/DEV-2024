@@ -1,0 +1,21 @@
+1. Explique o que é Área de Trabalho:
+	A Área de Trabalho é a tela principal do Windows, onde você encontra ícones de programas, arquivos e pastas. É como se fosse o seu "escritório" no computador.
+
+2. Explique o que é Barra de Tarefas:
+	A Barra de Tarefas fica na parte inferior da tela e mostra os programas que você está usando no momento, além do botão Iniciar e da área de notificação. Ela te ajuda a organizar e acessar rapidamente seus programas e ferramentas.
+
+3. Explique o que é Menu Iniciar:
+	O Menu Iniciar é um menu que te permite encontrar e abrir programas, arquivos e configurações do sistema. Ele fica no canto inferior esquerdo da tela e pode ser aberto clicando no botão Iniciar.
+
+4. Explique o que é Explorador de Arquivos:
+	O Explorador de Arquivos é um programa que te permite visualizar, organizar e gerenciar seus arquivos e pastas no computador. Você pode usá-lo para encontrar arquivos, copiar e mover arquivos, criar pastas e muito mais.
+
+5. Explique o que é um programa de computador:
+	Um programa de computador é um conjunto de instruções que diz ao computador o que fazer. Os programas podem ser usados para realizar diversas tarefas, como navegar na internet, escrever textos, ouvir música, jogar jogos e muito mais.
+
+6. Qual a diferença entre Login e Logoff?
+	Login: É o processo de entrar no computador, digitando seu nome de usuário e senha.
+	Logoff: É o processo de sair do computador, fechando todas as suas sessões e programas.
+
+7. Qual a importância de nomearmos um computador em uma rede de computadores?
+	Nomear um computador em uma rede de computadores facilita a sua identificação e o acesso a seus recursos. Isso é especialmente importante em redes com vários computadores, pois permite que você encontre facilmente o computador que deseja acessar.

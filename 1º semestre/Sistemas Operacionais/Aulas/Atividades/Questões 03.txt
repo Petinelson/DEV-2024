@@ -1,0 +1,46 @@
+Faça uma pesquisa na internet e descubra quais comandos podem ser utilizados apara abrir os seguintes programas:
+1.	Abrir o programa: Bloco de Notas
+	• No CMD digitamos: start notepad
+2.	Abrir o programa: Paint
+	• No CMD digitamos: start mspaint
+3.	Abrir o programa: Calculadora 
+	• No CMD digitamos: start calc
+4.	Abrir o programa: Microsoft Word
+	• No CMD digitamos: start winword
+5.	Abrir o programa: Microsoft Excel
+	• No CMD digitamos: start excel
+6.	Abrir o programa: Microsoft Edge
+	• No CMD digitamos: start msedge
+7.	Abrir o programa: Google Chrome
+	• No CMD digitamos: start chrome
+8.	Abrir o programa: VSCode
+	• No CMD digitamos: start code
+9.	Abrir o programa: VirtualBox
+	• No CMD digitamos: start VirtualBox
+	• Observação: Alguns programas requerem a configuração de variáveis de ambiente para o funcionamento de comandos específicos. Caso essas variáveis não sejam configuradas, o usuário precisará acessar diretamente a pasta de instalação do programa e executar o arquivo correspondente.
+
+Perguntas Relacionadas ao Prompt de Comando (CMD):
+1.	Qual a função do comando: CD
+	• CD (Change Directory): Muda o diretório atual para outro especificado. Por exemplo, cd Documents muda o diretório atual para o diretório Documents.
+2.	Qual a função do comando: MKDIR
+	• MKDIR (Make Directory): Cria um diretório no local especificado. Por exemplo, mkdir Novo Diretório cria um diretório chamado Novo Diretório.
+3.	Qual a função do comando: ATTRIB
+	• ATTRIB: Exibe ou altera atributos de arquivos ou diretórios. Pode ser usado para tornar arquivos ocultos ou somente leitura, por exemplo.
+4.	Qual a função do comando: COPY
+	• COPY: Copia um ou mais arquivos de um local para outro. Por exemplo, copy arquivo.txt d:\backup copia o arquivo.txt para o diretório d:\backup.
+5.	Qual a função do comando: Del
+	• DEL (Delete): Exclui um ou mais arquivos. Por exemplo, del arquivo.txt exclui o arquivo.txt do diretório atual.
+6.	Qual a função do comando: DIR
+	• DIR: Lista os arquivos e diretórios contidos no diretório atual ou especificado, juntamente com informações como tamanho, data de modificação, etc.
+7.	Qual a função do comando: MOVE
+	• MOVE: Move um ou mais arquivos de um local para outro. Também pode ser usado para renomear arquivos e diretórios.
+8.	Qual a função do comando: REN
+	• REN (Rename): Renomeia um arquivo ou diretório. Por exemplo, ren arquivo.txt novo_nome.txt muda o nome do arquivo.txt para novo_nome.txt.
+9.	Qual a função do comando: START
+	• START: Abre um novo prompt de comando, inicia um programa, ou abre um arquivo com o programa associado. Por exemplo, start notepad abre o Bloco de Notas.
+10.	Qual a função do comando: TASKLIST
+	• TASKLIST: Exibe uma lista de todos os processos em execução no sistema, incluindo informações como ID do processo e uso de memória.
+11.	Qual a função do comando: TASKKILL
+	• TASKKILL: Permite finalizar processos pelo ID do processo ou pelo nome da imagem. Por exemplo, taskkill /IM notepad.exe finaliza todos os processos do Bloco de Notas.
+12.	Qual a função do comando: SYSTEMINFO
+	• SYSTEMINFO: Fornece informações detalhadas sobre a configuração do sistema, incluindo versão do sistema operacional, configuração de hardware, configuração de rede, entre outros.

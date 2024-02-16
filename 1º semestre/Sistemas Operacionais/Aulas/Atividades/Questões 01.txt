@@ -1,0 +1,34 @@
+1. **Qual das seguintes opções é um exemplo de um sistema operacional de código aberto?**
+   a) Windows 10
+   b) macOS
+   c) Ubuntu
+   d) iOS
+   **Resposta Correta: c) Ubuntu**
+
+2. **Qual foi a primeira família de sistemas operacionais Windows compatível com a arquitetura IBM PC?**
+   a) Família 9X
+   b) Família NT
+   c) Windows XP
+   d) MS-DOS
+   **Resposta Correta: a) Família 9X**
+
+3. **Qual programa podemos utilizar para abrir um arquivo .txt no computador?
+	a) Microsoft Excel
+	b) Bloco de Notas
+	c) Adobe Photoshop
+	d) VLC Media Player
+	**Resposta Correta: b) Bloco de Notas
+
+4. **Qual é a principal função de uma pasta em um sistema de computador?**
+   a) Executar programas.
+   b) Armazenar dados.
+   c) Organizar arquivos e outras pastas.
+   d) Aumentar a velocidade do computador.
+   **Resposta Correta: c) Organizar arquivos e outras pastas.**
+
+5. **Quais dos seguintes programas são considerados programas nativos?**
+   a) Google Chrome e Avast Antivírus
+   b) Pacote Office (Word, Excel, PowerPoint)
+   c) Calculadora e Bloco de Notas
+   d) Adobe Photoshop e Adobe Illustrator
+   **Resposta Correta: c) Calculadora e Bloco de Notas**
