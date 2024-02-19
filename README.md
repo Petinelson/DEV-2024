@@ -28,3 +28,7 @@ Este repositório é uma ponte entre teoria e prática, visando ser um recurso v
 | Arquitetura de Redes com IoT      | X  | X  | X  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 | Sistemas Operacionais             | X  | X  | X  | X  | X  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 | Levantamento de Requisitos        | X  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+### Legenda:
+  * X - Aula Realizada
+  * O - Aula Prevista
