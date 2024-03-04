@@ -5,3 +5,20 @@ Informações sobre Windows 10
 	* https://www.pcgamer.com/whats-the-difference-between-windows-10-home-and-pro/
 	* https://olhardigital.com.br/2018/04/09/dicas-e-tutoriais/windows-10-pro-home-ou-s-qual-a-melhor-opcao-para-voce/
 	* https://www.techtudo.com.br/tudo-sobre/windows-10/
+
+Informações sobre programação .BAT
+	* https://www.profissionaisti.com.br/tutorial-criar-arquivo-bat-com-menu/
+	* https://www.devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800
+
+Informações sobre Vírus
+	* https://br.norton.com/blog/malware/what-is-a-computer-virus
+	* https://www.sap.com/brazil/products/financial-management/what-is-cybersecurity.html
+	* https://www.controle.net/faq/o-que-e-um-virus-de-computador
+	* https://blog.algartelecom.com.br/internet/conheca-os-5-tipos-de-virus-mais-comuns-na-internet-2/
+	* https://pt.wikipedia.org/wiki/V%C3%ADrus_de_computador
+	* https://www.vivo.com.br/para-voce/por-que-vivo/vivo-explica/para-descomplicar/diferencas-entre-hacker-e-cracker
+	* https://codebit.com.br/blog/qual-diferenca-entre-hacker-cracker
+	* https://g1.globo.com/tecnologia/noticia/2023/08/18/entenda-o-que-e-um-hacker-e-a-diferenca-para-cracker.ghtml
+	* https://globaldata.com.br/tipos-de-antivirus/
+	* https://www.techtudo.com.br/noticias/2016/06/virus-e-antivirus-o-que-e-e-como-se-proteger.ghtml
+	* https://www.controle.net/faq/antivirus-um-software-que-protege-seus-dispositivos
