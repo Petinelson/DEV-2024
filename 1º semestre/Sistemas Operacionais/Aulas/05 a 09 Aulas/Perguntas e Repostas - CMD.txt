@@ -1,0 +1,90 @@
+1. O que o comando "CD" permite fazer no prompt de comando?
+   - A) Copiar arquivos
+   - B) Mudar o diretório atual
+   - C) Deletar arquivos
+   - D) Listar diretórios
+   - **Resposta Correta: B**
+
+2. Para que serve o comando "MKDIR" no Windows CMD?
+   - A) Mostrar informações do sistema
+   - B) Exibir a lista de tarefas
+   - C) Criar um novo diretório
+   - D) Renomear um diretório
+   - **Resposta Correta: C**
+
+3. Qual é a função do comando "COPY"?
+   - A) Deletar um diretório
+   - B) Copiar arquivos de um local para outro
+   - C) Listar todas as conexões de rede
+   - D) Encerrar uma tarefa específica
+   - **Resposta Correta: B**
+
+4. O que faz o comando "Del"?
+   - A) Deleta arquivos especificados
+   - B) Cria um diretório
+   - C) Lista informações do sistema
+   - D) Reinicia o computador
+   - **Resposta Correta: A**
+
+5. Qual é a utilização do comando "DIR"?
+   - A) Mudar o nome de um arquivo
+   - B) Abrir um programa
+   - C) Listar arquivos e diretórios
+   - D) Mostrar a configuração de IP
+   - **Resposta Correta: C**
+
+6. O que o comando "REN" faz no prompt de comando?
+   - A) Remove diretórios
+   - B) Renomeia arquivos ou diretórios
+   - C) Copia arquivos
+   - D) Deleta tarefas
+   - **Resposta Correta: B**
+
+7. Para que serve o comando "START" no CMD?
+   - A) Lista as tarefas em execução
+   - B) Mostra informações do sistema
+   - C) Abre um programa ou pasta
+   - D) Exibe o nome do host
+   - **Resposta Correta: C**
+
+8. Qual a finalidade dos comandos "TASKLIST" e "TASKKILL"?
+   - A) Mostrar e encerrar tarefas, respectivamente
+   - B) Iniciar e pausar tarefas, respectivamente
+   - C) Reiniciar e desligar o computador, respectivamente
+   - D) Listar e renomear tarefas, respectivamente
+   - **Resposta Correta: A**
+
+9. O que o comando "SYSTEMINFO" exibe?
+   - A) A lista de diretórios
+   - B) O histórico de comandos usados
+   - C) Informações detalhadas sobre o sistema do computador
+   - D) Configurações de rede
+   - **Resposta Correta: C**
+
+10. Qual é a utilidade do comando "IPCONFIG"?
+    - A) Deletar um arquivo
+    - B) Mostrar todas as configurações de rede do computador
+    - C) Iniciar uma conexão de rede
+    - D) Listar todos os programas instalados
+    - **Resposta Correta: B**
+
+11. O que faz o comando "PING"?
+    - A) Testa a conectividade com outro host na rede
+    - B) Mostra a lista de diretórios
+    - C) Inicia um novo processo
+    - D) Exibe o endereço IP atual
+    - **Resposta Correta: A**
+
+12. Para que serve o comando "HOSTNAME"?
+    - A) Para deletar um hostname
+    - B) Para renomear o computador
+    - C) Para mostrar o nome do computador na rede
+    - D) Para listar todos os hosts na rede
+    - **Resposta Correta: C**
+
+13. O que realiza o comando "RD"?
+    - A) Reinicia o computador
+    - B) Deleta um diretório existente
+    - C) Recupera arquivos deletados
+    - D) Cria um relatório detalhado do sistema
+    - **Resposta Correta: B**
