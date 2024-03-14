@@ -1,0 +1,40 @@
+Um grupo deve compreender a necessidade apresentada pela empresa e inserir-se no contexto de análise de requisitos. Os desenvolvedores devem identificar os principais pontos solicitados pela empresa, realizando entrevistas com a companhia, se necessário e atender a esses requisitos. Por exemplo:
+
+	1. Qual é o principal objetivo do sistema?
+	   - É necessário entender o propósito de uso do sistema para assegurar que ele atenda às necessidades da empresa.
+
+	2. Quem vai usar o sistema e o que eles precisam?
+	   - Identificar os usuários do sistema e suas necessidades é crucial para desenvolver uma solução adequada.
+
+	3. Quais funções o sistema precisa ter?
+	   - É importante definir as tarefas que o sistema deve executar para determinar o que precisa ser desenvolvido.
+
+	4. O sistema precisa se conectar com outros sistemas?
+	   - Verificar se é necessário integrar o novo sistema com sistemas existentes na empresa pode influenciar o seu desenvolvimento.
+
+	5. Que tipo de informação o sistema vai guardar ou usar?
+	   - Compreender o tipo de dados que o sistema irá manejar é essencial para a organização dos dados e segurança das informações.
+
+	6. Como podemos fazer o sistema fácil de usar para todos?
+	   - O sistema deve ser projetado para ser fácil de usar por qualquer pessoa, incluindo aquelas com necessidades especiais.
+
+	7. Como o sistema deve funcionar bem e suportar mais uso no futuro?
+	   - É necessário projetar o sistema para que ele seja rápido e possa se adaptar ao crescimento da empresa.
+
+	8. Há alguma tecnologia específica que precisamos usar?
+	   - Determinar se há necessidade de utilizar tecnologias ou linguagens de programação específicas para a criação do sistema.
+
+	9. Como podemos proteger o sistema para manter os dados seguros?
+	   - Definir medidas de segurança para proteger o sistema contra perda ou roubo de dados importantes.
+
+	10. Como vamos atualizar e cuidar do sistema depois que ele estiver pronto?
+		- Planejar a manutenção e atualizações futuras é essencial para assegurar que o sistema continue atendendo às necessidades da empresa ao longo do tempo.
+		
+Após isso os desenvolvedores devem responder os requisitos necessários para o desenvolvimento:
+	* Quais requisitos funcionais serão necessários para elaboração da ferramenta;
+	* Quais requisitos não funcionais serão necessários para elaboração da ferramenta;
+	* Quais restrições o programa ou recurso terá?
+	* Pela visão da empresa, qual a Regra de Negócio estabelecido pelo cliente?
+	* Quais ferramentas de Wireframe o grupo utilizara para solução do problema.
+	* Em quantas partes os desenvolvedores dividiram o problema? Quanto mais dividir o problema mais fácil a compreenção a ser soculionado. Descreva a quantidade de passos e as definição deste passos 
+	
