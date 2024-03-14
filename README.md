@@ -25,9 +25,9 @@ Este repositório é uma ponte entre teoria e prática, visando ser um recurso v
 |                         | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |-------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | Lógica de Programação e Algoritmo | X  | X  | X  | X  | X  | X  | X  | X  | X  |    |    |    |    |    |    |    |    |    |    |    |
-| Arquitetura de Redes com IoT      | X  | X  | X  | X  | X  | X  | X  |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| Arquitetura de Redes com IoT      | X  | X  | X  | X  | X  | X  | X  | O  | O  |    |    |    |    |    |    |    |    |    |    |    |
 | Sistemas Operacionais             | X  | X  | X  | X  | X  | X  | X  | X  | X  |    |    |    |    |    |    |    |    |    |    |    |
-| Levantamento de Requisitos        | X  | X  | X  | X  | X  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| Levantamento de Requisitos        | X  | X  | X  | X  | X  | O  | O  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 ### Legenda:
   * X - Aula Realizada
