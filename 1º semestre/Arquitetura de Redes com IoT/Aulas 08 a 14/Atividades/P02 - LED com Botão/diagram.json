@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard-half", "id": "bb1", "top": -127.8, "left": 41.2, "attrs": {} },
+    {
+      "type": "board-esp32-devkit-c-v4",
+      "id": "esp",
+      "top": -68.86,
+      "left": -130.7,
+      "rotate": 90,
+      "attrs": { "env": "micropython-20231227-v1.22.0" }
+    },
+    { "type": "wokwi-led", "id": "led1", "top": -13.2, "left": 71, "attrs": { "color": "red" } },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": -33.6,
+      "left": 66.65,
+      "rotate": 90,
+      "attrs": { "value": "65" }
+    },
+    {
+      "type": "wokwi-pushbutton-6mm",
+      "id": "btn2",
+      "top": -37.4,
+      "left": 138.4,
+      "rotate": 90,
+      "attrs": { "color": "black" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "esp:25", "bb1:4t.b", "purple", [ "v0" ] ],
+    [ "esp:GND.2", "bb1:bn.1", "black", [ "v19.2", "h76.8" ] ],
+    [ "led1:C", "bb1:bn.2", "black", [ "v0" ] ],
+    [ "btn2:2.l", "esp:26", "orange", [ "v-48", "h-221.2" ] ],
+    [ "bb1:11b.g", "bb1:bn.9", "black", [ "v0" ] ],
+    [ "led1:A", "bb1:4b.j", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:3b.j", "", [ "$bb" ] ],
+    [ "r1:1", "bb1:4t.c", "", [ "$bb" ] ],
+    [ "r1:2", "bb1:4b.g", "", [ "$bb" ] ],
+    [ "btn2:1.l", "bb1:11t.e", "", [ "$bb" ] ],
+    [ "btn2:2.l", "bb1:9t.e", "", [ "$bb" ] ],
+    [ "btn2:1.r", "bb1:11b.f", "", [ "$bb" ] ],
+    [ "btn2:2.r", "bb1:9b.f", "", [ "$bb" ] ]
+  ],
+  "dependencies": {}
+}
