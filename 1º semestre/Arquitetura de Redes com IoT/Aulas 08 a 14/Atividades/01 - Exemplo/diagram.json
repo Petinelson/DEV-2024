@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard-half", "id": "bb1", "top": 198.6, "left": -266, "attrs": {} },
+    {
+      "type": "board-esp32-devkit-c-v4",
+      "id": "esp",
+      "top": 27.14,
+      "left": -149.9,
+      "rotate": 90,
+      "attrs": { "env": "micropython-20231227-v1.22.0" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": 236.4,
+      "left": -187.8,
+      "attrs": { "color": "red", "flip": "1" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led2",
+      "top": 236.4,
+      "left": -101.8,
+      "attrs": { "color": "blue", "flip": "" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r2",
+      "top": 282.35,
+      "left": -230.4,
+      "attrs": { "value": "65" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r3",
+      "top": 282.35,
+      "left": -76.8,
+      "attrs": { "value": "65" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "led2:A", "bb1:18t.d", "", [ "$bb" ] ],
+    [ "led2:C", "bb1:17t.d", "", [ "$bb" ] ],
+    [ "led1:A", "bb1:8t.d", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:9t.d", "", [ "$bb" ] ],
+    [ "r2:1", "bb1:2t.e", "", [ "$bb" ] ],
+    [ "r2:2", "bb1:8t.e", "", [ "$bb" ] ],
+    [ "r3:1", "bb1:18t.e", "", [ "$bb" ] ],
+    [ "r3:2", "bb1:24t.e", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:tn.8", "black", [ "h9.2", "v-57.5" ] ],
+    [ "led2:C", "bb1:tn.12", "black", [ "h-18.8", "v-57.5" ] ],
+    [ "esp:GND.2", "bb1:tn.20", "black", [ "v0" ] ],
+    [ "esp:14", "bb1:2t.d", "red", [ "v-9.45", "h-96" ] ],
+    [ "esp:27", "bb1:24t.d", "green", [ "v-9.45", "h124.8", "v115.2" ] ]
+  ],
+  "dependencies": {}
+}
